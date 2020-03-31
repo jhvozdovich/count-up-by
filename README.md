@@ -1,6 +1,6 @@
 # _Count Up By_
 
-#### _Epicodus Project  31, 2020_
+#### _Epicodus Project, Counting with Loops, March 31, 2020_
 
 #### By _**Jessica Hvozdovich and Eric Grove**_
 
